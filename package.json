@@ -1,0 +1,5 @@
+"dependencies": {
+  "@adiwajshing/baileys": "^5.39.1",
+  "qrcode-terminal": "^0.12.0",
+  "node-fetch": "^3.3.2"
+}
