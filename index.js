@@ -89,20 +89,4 @@ async function startBot() {
 }
 
 startBot();
-{
-  "name": "whatsapp-bot-termux",
-  "version": "1.0.0",
-  "description": "Bot WhatsApp grup",
-  "main": "index.js",
-  "scripts": {
-    "start": "node index.js"
-  },
-  "dependencies": {
-    "@adiwajshing/baileys": "^5.39.2",
-    "qrcode-terminal": "^0.12.0",
-    "node-fetch": "^3.3.2"
-  }
-}
-node_modules/
-temp.jpg
-auth.json
+
